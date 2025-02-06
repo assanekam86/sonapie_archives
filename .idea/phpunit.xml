@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/public/vendo/setasign/fpdi/tests" />
+        <option value="$PROJECT_DIR$/public/vend/setasign/fpdi/tests" />
+        <option value="$PROJECT_DIR$/public/dompdf/tests" />
+        <option value="$PROJECT_DIR$/public/dompdf/lib/php-css-parser/tests" />
+        <option value="$PROJECT_DIR$/public/dompdf/lib/php-svg-lib/tests/Svg" />
+        <option value="$PROJECT_DIR$/public/vend/setasign/fpdi-protection/tests/functional" />
+        <option value="$PROJECT_DIR$/public/html2pdf-master/src/Tests" />
+        <option value="$PROJECT_DIR$/public/dompdf/lib/php-font-lib/tests/FontLib" />
+        <option value="$PROJECT_DIR$/public/vendo/setasign/fpdi-protection/tests/functional" />
+      </list>
+    </option>
+  </component>
+</project>

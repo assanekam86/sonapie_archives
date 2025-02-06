@@ -1,0 +1,102 @@
+
+
+
+.tab-header{
+    position: ;
+    height:40px;
+    display:flex;
+    border-bottom: 1px solid #333;
+}
+.tab-link{ 
+    min-width: 16%;
+    height:40px;
+    padding: auto 2%;
+    outline: none;
+    border: none;
+    cursor: pointer ;
+    background-color: rgb(0, 177, 201);
+    font-family: cambria;
+    font-size: 17px;
+    color: white;
+}
+.tab-link:hover{
+    background-color: rgb(3,134,151);
+}
+
+.active{
+    background-color: #4e73df;
+    color: #f1f1f1;
+    transition: all 0.3s ease;
+}
+/*
+.tab-link.desactive{
+    background-color: rgb(167, 225,233 );
+    cursor: not-allowed;
+}*/
+.tab-body{
+    position: relative;
+    display: ;
+    width: 100%;
+    height: auto;
+    border: 1px solid #4e73df;
+    padding: 2% 5%;
+    box-shadow: 2px 1px 5px #4e73df;
+    opacity: 1;
+    z-index: 10;
+}
+/*
+.tab-body .active{
+    display: ;
+
+}*/
+.tab-body h3{
+    padding: 20px;
+}
+.tab-body hr{
+ width: 20%;
+ height: 2px;
+ margin-left: 20px;
+ background: #4e73df ;
+ border: none;
+
+}
+.tab-body p{
+    padding: 20px;
+}
+
+/* anim */
+
+.activeContenu{
+  animation: fade 0.5s forwards; 
+}
+@keyframes fade {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.text-center{
+    text-align: center;color: red;
+}
+ iframe{
+    margin: 0;
+    background-color: orange;
+ }
+
+
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+    @page {
+  size: auto;
+  margin: 0;
+       }
+}
+
+@page {
+  size: auto;
+  margin: 0;
+       }
