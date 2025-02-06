@@ -3,7 +3,7 @@
 |                                                                                                                                                             |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
-|                                                    Projet développe par KAMARA ASSANE                                                                      |
+|                                                    Projet développé par KAMARA ASSANE                                                                      |
 |                                                INGENIEUR DEVELOPPEMENT D'APPLICATION FULL STACK                                                             |
 |                                                                                                                                                             |
 |                                                                                                                                                             |
